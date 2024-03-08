@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning DEVOPs...
 - 💞️ I’m looking to collaborate on infrastructure projects and implementation of hybrid services. ...
 - 📫 How to reach me https://linktr.ee/i.esteban ...
-- 😄 Pronouns: TETE...
 - ⚡ Fun fact: Technologist and passionate about the🏍👍...
 
-<!---# 💫 About Me:
+# 💫 About Me:
 ¡Hola! Soy I. Esteban Sanchez, un apasionado informático radicado en Santo Domingo Este. Con una sólida experiencia en el sector tecnológico, he perfeccionado habilidades que me han convertido en un experto en identificar y resolver errores tanto lógicos como físicos en entornos de tecnologías de la información.<br><br>Mi principal objetivo es garantizar que los usuarios disfruten de un desempeño óptimo en las aplicaciones y equipos que utilizan diariamente. Para lograrlo, no solo me dedico a solucionar problemas, sino que también me enfoco en generar nuevas mejoras que optimicen el rendimiento y hagan las tareas más eficientes.<br><br>Mi trayectoria en el campo tecnológico me ha permitido cultivar una mentalidad analítica y creativa, capaz de abordar desafíos complejos con soluciones innovadoras. Me apasiona explorar nuevas tecnologías y tendencias emergentes para estar siempre un paso adelante y ofrecer las mejores soluciones a los problemas tecnológicos.<br><br>Estoy en constante búsqueda de oportunidades que me permitan seguir creciendo profesionalmente y contribuir al éxito de proyectos ambiciosos. Si estás buscando un profesional comprometido, proactivo y orientado a resultados, ¡no dudes en contactarme! Estoy emocionado por explorar nuevas oportunidades y aportar mi experiencia y conocimientos a tu equipo.
 
 
@@ -33,6 +32,3 @@
 [![](https://visitcount.itsvg.in/api?id=Iestebansv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Iestebansv/Iestebansv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
